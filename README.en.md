@@ -120,10 +120,12 @@ Under the following terms:
 ### Citation
 
 ```bibtex
-@thesis{author20xx,
-  author = {[Author Name]},
-  title = {Comparative Study on the Development Paths of US-Soviet Cooperative Engagement Systems: A Counterfactual Analysis Centered on the Capability of Separating Detection from Firepower},
-  year = {20XX},
+@misc{johnsmithfan2026cec,
+  author       = {JohnSmithfan},
+  title        = {Comparative Study on the Development Paths of US-Soviet Cooperative Engagement Systems: A Counterfactual Analysis},
+  year         = {2026},
+  howpublished = {\url{https://github.com/JohnSmithfan/Comparative-Study-on-the-Development-Paths-of-US-Soviet-Cooperative-Engagement-Systems}},
+  note         = {Licensed under CC BY-NC 4.0}
 }
 ```
 
