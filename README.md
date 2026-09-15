@@ -31,10 +31,11 @@
 
 ```
 .
-|-- .gitignore           # 
+|-- .gitignore           #
+├── README.en.md    # Project documentation (English)
 |-- LICENSE              # CC BY-NC 4.0 开源许可证
 |-- README.md            # 项目说明文件
-|-- thesis.md            # 论文Word源文件
+|-- thesis.md            # 论文正文
 |-- thesis.pdf           # 论文PDF版本（排版后）
 |-- CHANGELOG.md         # 论文修改历史
 
