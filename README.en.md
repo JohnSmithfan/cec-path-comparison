@@ -84,7 +84,6 @@ At the end of the Cold War, the United States and the Soviet Union faced the sam
   - (3) Applicability and Limitations of Counterfactual Methods in Equipment System Research
   - (4) Implications for Contemporary Coordinated Engagement System Development
 - References
-- Acknowledgments
 ---
 
 ### Academic Information
