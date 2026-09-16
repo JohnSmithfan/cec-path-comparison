@@ -29,12 +29,12 @@ At the end of the Cold War, the United States and the Soviet Union faced the sam
 
 ```
 .
-├── README.md              # Repository documentation (this file)
+├── README.md              # Repository documentation (Bilingual)
+├── README.zh.md           # Repository documentation (Chinese)
+├── README.en.md           # Repository documentation (this file)
 ├── LICENSE                # CC BY-NC 4.0 License
 ├── thesis.pdf             # Final typeset version of the thesis (PDF)
-├── thesis.docx            # Source document of the thesis
-├── figures/               # Figures and charts cited in the thesis
-└── references/            # Bibliography files (optional)
+└── thesis.md              # Source document of the thesis
 ```
 
 ---
