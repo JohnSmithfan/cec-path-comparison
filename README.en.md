@@ -124,7 +124,7 @@ Under the following terms:
   author       = {JohnSmithfan},
   title        = {Comparative Study on the Development Paths of US-Soviet Cooperative Engagement Systems: A Counterfactual Analysis},
   year         = {2026},
-  howpublished = {\url{https://github.com/JohnSmithfan/Comparative-Study-on-the-Development-Paths-of-US-Soviet-Cooperative-Engagement-Systems}},
+  howpublished = {\url{https://github.com/JohnSmithfan/cec-path-comparison}},
   note         = {Licensed under CC BY-NC 4.0}
 }
 ```
