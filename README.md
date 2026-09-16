@@ -91,7 +91,7 @@
 如果您在学术研究中使用了本论文的内容，建议按以下方式引用：
 
 ```
-JohnSmithfan. 美苏协同交战体系发展路径比较研究——以"A射B导"体系的反事实推演为中心[EB/OL]. GitHub, 2026. https://github.com/JohnSmithfan/Comparative-Study-on-the-Development-Paths-of-US-Soviet-Cooperative-Engagement-Systems
+JohnSmithfan. 美苏协同交战体系发展路径比较研究——以"A射B导"体系的反事实推演为中心[EB/OL]. GitHub, 2026. https://github.com/JohnSmithfan/cec-path-comparison
 ```
 
 ---
