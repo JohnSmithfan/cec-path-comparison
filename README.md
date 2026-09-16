@@ -93,7 +93,7 @@ The analysis uses two instruments: a **four-layer comparative framework** (senso
 ├── README.zh.md     # 中文完整说明 · Full documentation in Chinese
 ├── README.en.md     # Full documentation in English
 ├── thesis.md        # 论文正文（Markdown，可在线阅读）· Full text in Markdown
-├── thesis.pdf       # 论文排版版本（PDF）· Typeset version in PDF
+├── thesis.pdf       # 论文排版版本（PDF），AI翻译并排版PDF· Typeset version in PDF which is AI translates and formats
 ├── CHANGELOG.md     # 版本变更记录 · Version history
 ├── LICENSE          # CC BY-NC 4.0 许可证 · License
 └── .gitignore
